@@ -1,0 +1,17 @@
+@use '../base/animations';
+
+.card {
+  padding: 1rem;
+  border: 1px solid orange;
+  border-radius: 6px;
+  background-color: #fff;
+  
+  &__title {
+    font-size: 1.25rem;
+  }
+
+  &__body {
+    padding: 0.5rem;
+  }
+
+}

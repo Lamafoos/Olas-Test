@@ -1,0 +1,14 @@
+.page {
+  &__header {
+    display: flex;
+    justify-content: center;
+  }
+
+  &__content {
+    border: 1px solid #000;
+    padding: 3rem 1rem;
+    background-color: #f5f5f5;
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+}
